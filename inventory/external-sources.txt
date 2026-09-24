@@ -1,0 +1,15 @@
+Hollywood
+
+Upstream:
+https://github.com/dustinkirkland/hollywood.git
+
+Baseline commit:
+65bcb64
+
+Live clone:
+~/.local/opt/hollywood
+
+Launcher:
+~/.local/bin/hollywood
+
+The upstream checkout was clean at the initial Toybox baseline.
