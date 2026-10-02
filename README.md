@@ -1,4 +1,26 @@
-# Post-Apollo Toybox
+✦︎✦︎✦︎ Meta Apollo Logos //
+
+# ★⋆˙ POST-APOLLO // TOYBOX
+
+![](BUILD/assets/design/chassis/focus-rail.svg)
+
+> **STATE //** active \~\~ **VIEW //** playful utilities / experiments
+
+> **Post-Apollo Toybox preserves the deliberately playful scripts, visual toys, and experiments that belong to the machine.**
+
+### 🧭 MAP // REPOSITORY
+
+![](BUILD/assets/design/chassis/nav-rail.svg)
+
+// [🧭 ATLAS](./ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](./MODEL/) \~\~ // [🖨 BUILD](./BUILD/) \~\~ // [⚒ DEV](./DEV/) \~\~ // [🖳 OPERATE](./OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](./EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](./ARCHIVE/)
+
+---
+
+### ★⋆˙ CORE // PLAY IS PART OF THE MACHINE
+
+The seven-room layer organizes meaning without turning Toybox into a sterile utility repository. Local scripts, inventories, and external references keep their existing roles.
+
+---
 
 A home for the deliberately playful parts of the Post-Apollo environment.
 
