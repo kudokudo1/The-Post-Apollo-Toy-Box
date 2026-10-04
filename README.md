@@ -1,6 +1,6 @@
 ✦︎✦︎✦︎ Meta Apollo Logos //
 
-# ★⋆˙ POST-APOLLO // TOYBOX
+# ★⋆˙ POST-APOLLO // TOY BOX
 
 ![](BUILD/assets/design/chassis/focus-rail.svg)
 
