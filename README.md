@@ -4,9 +4,13 @@
 
 ![](BUILD/assets/design/chassis/focus-rail.svg)
 
+![Post-Apollo // Toy Box](./BUILD/assets/design/toy-box-banner.svg)
+
 > **STATE //** active \~\~ **VIEW //** playful utilities / experiments
 
-> **Post-Apollo Toybox preserves the deliberately playful scripts, visual toys, and experiments that belong to the machine.**
+The playful and experimental side of the Post-Apollo Family — exploring the relationship between people, machines, curiosity, and play. A computer is more than work, code, efficiency, or productivity; there's no contradiction between productivity and play, and we take the relationship between user and pc seriously enough to make room for fun.
+
+**FAMILY //** [META APOLLO LOGOS](https://github.com/kudokudo1/Meta-Apollo-Logos) · [DEV EXP](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp) · [FOREST](https://github.com/kudokudo1/The-Post-Apollo-Forest-Project) · [TASKBARS](https://github.com/kudokudo1/taskbars-post-apollo)
 
 ### 🧭 MAP // REPOSITORY
 
